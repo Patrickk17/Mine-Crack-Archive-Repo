@@ -19,3 +19,6 @@ Specifications for the server. Note: This directory does not include plugin conf
 
 ## [Plugins](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/plugins)
 Contains a list of plugins on the Mine-Crack server, as well as links, descriptions, config files, and .jar files of the plugins.
+
+## [Scripts](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/scripts)
+Two scrips I made to make life easier for me. The first is a script to start the server, the second is a script to make a backup of the worlds and place it in a directory. NOTE: If you use said script you will need to edit this script because it will not pertain exactly to your filesystem. Also, these are bash scripts. They are not compatible with Windows Powershell though there might be some conversion tool, not sure.
