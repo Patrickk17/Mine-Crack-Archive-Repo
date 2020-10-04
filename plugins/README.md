@@ -1,1 +1,22 @@
+# Here contains a series of lists, links and information on the plugins used on the Mine-Crack server.
 
+./pluginslist.txt:
+
+
+```
+1. LuckPerms
+2. WorldEdit
+3. BookNews
+4. ViaVersion
+5. Vault
+7. Multiverse-Core
+8. WorldGuard
+9. Essentials
+10. Multiverse-Inventories
+11. EssentialsChat
+12. Multiverse-Portals
+13. EssentialsSpawn
+14. BetterSleeping3
+15. DiscordSRV
+16. Multiverse-NetherPortals
+```
