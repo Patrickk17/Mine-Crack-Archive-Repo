@@ -25,3 +25,6 @@ Two scrips I made to make life easier for me. The first is a script to start the
 
 ## [Spigot Jars](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/spigot-jars)
 Contains the spigot (and mojang) .jar server files present on the Mine-Crack server.
+
+## [World Saves](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/world-saves)
+Contains all the server backups since April. Backups were typically done every other sunday. 
