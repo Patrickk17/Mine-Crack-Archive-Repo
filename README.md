@@ -11,6 +11,7 @@ Used for:
 - Preventing in-game chat messages from being displayed in #minecraft
 - Deleting whispers from the server console channel (they are still available to view in the server logs.)
 - Removing spam from the #Server-Console channel.
+
 To get this bot on your server, you must contact me.
 
 
