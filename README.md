@@ -14,4 +14,6 @@ Used for:
 
 To get this bot on your server, you must contact me.
 
+## [Server Configuation Files](https://github.com/Patrickk17/main/config-files)
+
 
