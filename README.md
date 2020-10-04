@@ -15,5 +15,5 @@ Used for:
 To get this bot on your server, you must contact me.
 
 ## [Server Configuation Files](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/config-files)
-
+Specifications for the server. Note: This directory does not include plugin config files, those can be found in the [plugins directory](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/plugins)
 
