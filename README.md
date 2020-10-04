@@ -28,3 +28,7 @@ Contains the spigot (and mojang) .jar server files present on the Mine-Crack ser
 
 ## [World Saves](https://github.com/Patrickk17/Mine-Crack-Archive-Repo/tree/main/world-saves)
 Contains all the server backups since April. Backups were typically done every other sunday. 
+
+## License
+
+The vast majority of this is not my actual work. In fact I believe it's only the scrips and the discord bot (licensed under a different license). For the works which are mine, they are licensed under the
