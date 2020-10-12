@@ -11,6 +11,6 @@ Requires a Unix System (Linux, MacOS, or FreeBSD).
 Should be run from the root server directory.
 Does not require root.
 Requires file read pernmissions of all involved files.
-Requires the Unix/Linux program "cp" (copy).
+Requires the Unix/Linux program "cp" (copy) and "mkdir" (make directory).
 Requires RAM which amounts to the total size of all involved files.
 Requires a Unix System (Linux, MacOS, or FreeBSD).
